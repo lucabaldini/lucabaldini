@@ -8,6 +8,4 @@ Not sure why would you care, but defintely feel free to reach out.
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabaldini&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lucabaldini&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucabaldini&layout=compact)
