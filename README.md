@@ -1,4 +1,4 @@
-## Hello 👋
+## Hi there, thanks for stopping by.
 
 I am a high-energy physicist with a side interest for software craftsmanship
 and digital typography (among other things).
